@@ -1,0 +1,17 @@
+ *{
+     margin: 0;
+     padding: 0;
+    
+ }
+ .container{ 
+     background-color: royalblue;
+     height: 100vh;
+     width: 100vw;
+ }
+ .main h1{
+     position: absolute;
+     top: 16rem;
+     left: 13rem;
+     font-size: 6rem;
+     font-style: italic;
+ } 
